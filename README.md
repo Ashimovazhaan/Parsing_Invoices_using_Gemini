@@ -23,4 +23,6 @@ Refining prompts: If the output is inaccurate or incomplete, adjust the prompts 
 1) InvoiceApp.gs;
 2) Sample.gs;
 3) screen1 - screen of invoice from goodle driver;
-4) screen2- screen of execution from Appscript.
+4) screen2- screen of execution from Google Apps Script.
+
+Author: Aruzhan Ashimova
