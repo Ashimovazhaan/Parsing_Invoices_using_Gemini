@@ -17,8 +17,10 @@ Reviewing the output: After running the script, inspect the generated JSON objec
 Refining prompts: If the output is inaccurate or incomplete, adjust the prompts within the "q" variable to provide clearer guidance for Gemini's parsing.
 
 
-(4 files attached :
-1)InvoiceApp.gs;
-2)Sample.gs;
+# Attachments
+
+4 files attached
+1) InvoiceApp.gs;
+2) Sample.gs;
 3) screen1 - screen of invoice from goodle driver;
-4) screen2- screen of execution from Appscript)
+4) screen2- screen of execution from Appscript.
